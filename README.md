@@ -4,8 +4,9 @@ This is app that helps graduate of an instituion to own a cv page on the Alumia 
 Graduate takes the pain out of alumia gap with alumnus by easing common tasks such as:
 
 - 1. Overall List of Alumnia
-- 2. traacking and searching members
+- 2. tracking and searching members
 - 3. grant members right to own a customised CV
+- 4. Job Notification 
 
 
 
